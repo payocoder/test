@@ -1,0 +1,20 @@
+Uri: https://dynov2.ml/
+File Name: C:\Users\alpha\Downloads\doWnloAd wesITes\dynov2.ml\index.htm
+Content Type: text/html
+
+Uri: https://dynov2.ml/assets/app.730f242.css
+File Name: C:\Users\alpha\Downloads\doWnloAd wesITes\dynov2.ml\assets\app.730f242.css
+Content Type: text/css
+
+Uri: https://dynov2.ml/assets/serverlist.bcf62c6.css
+File Name: C:\Users\alpha\Downloads\doWnloAd wesITes\dynov2.ml\assets\serverlist.bcf62c6.css
+Content Type: text/css
+
+Uri: https://dynov2.ml/assets/favicon.png
+File Name: C:\Users\alpha\Downloads\doWnloAd wesITes\dynov2.ml\assets\favicon.png
+Content Type: image/png
+
+Uri: https://dynov2.ml/bot.html
+File Name: C:\Users\alpha\Downloads\doWnloAd wesITes\dynov2.ml\bot.html
+Content Type: text/html
+
